@@ -8,7 +8,7 @@ PKL PMI Web Asset ialah website yang bertujuan untuk input asset Markas PMI Pusa
 
 Bahan: 
 - [DOWNLOAD ADMIN LTE 3](https://github.com/AnandaRauf/AdminLTE)
-- [DOWNLOAD XAMPP]().
-- BUAT AKUN LUCIDCHART.
+- [DOWNLOAD XAMPP](https://sourceforge.net/projects/xampp/files/latest/download).
+- [BUAT AKUN LUCIDCHART](https://lucid.app/users/login#/loggedOut)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
