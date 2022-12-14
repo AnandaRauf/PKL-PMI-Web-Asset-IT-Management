@@ -1,0 +1,22 @@
+.custom-navbar
+{
+    background-color: #dd2727;
+}
+
+.custom-sideleft-bar{
+    background-color: #dd2727;
+}
+
+.custom-sidebar
+{
+    background-color: #dd2727 !important;
+}
+
+.custom-navbar .custom-color-brand
+{
+    color: #ffffff !important;
+}
+
+.custom-fullname .custom-icon .custom-down{
+    color: #ffffff !important;
+}
